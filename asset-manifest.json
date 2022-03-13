@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hanapegi_game/static/css/main.b0cd90c9.css",
-    "main.js": "/hanapegi_game/static/js/main.c4a56a34.js",
+    "main.css": "/hanapegi_game/static/css/main.ba6219bd.css",
+    "main.js": "/hanapegi_game/static/js/main.03670402.js",
     "static/js/845.1fee4f5b.chunk.js": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js",
     "static/media/wait.mp3": "/hanapegi_game/static/media/wait.8f455294af44e7cea68d.mp3",
     "static/media/win.gif": "/hanapegi_game/static/media/win.c25430230d74bb1dde73.gif",
@@ -13,6 +13,7 @@
     "static/media/title.png": "/hanapegi_game/static/media/title.e8c028aecf49dea1dcde.png",
     "static/media/woman.png": "/hanapegi_game/static/media/woman.cb89f031059cad52cd09.png",
     "static/media/man.png": "/hanapegi_game/static/media/man.b7510306665c9bbd7438.png",
+    "static/media/alert.gif": "/hanapegi_game/static/media/alert.c0a2317f3ef1374f38b8.gif",
     "static/media/bg.jpg": "/hanapegi_game/static/media/bg.8a780bcd779e1b56b6eb.jpg",
     "static/media/game-console.png": "/hanapegi_game/static/media/game-console.d16c52388d3bc5b14298.png",
     "static/media/bg-floor.jpg": "/hanapegi_game/static/media/bg-floor.881a4180bb6372e2c016.jpg",
@@ -27,12 +28,12 @@
     "static/media/icon-crown.svg": "/hanapegi_game/static/media/icon-crown.2874b553a24d33a525bfd75f24225b04.svg",
     "static/media/icon-instruction.svg": "/hanapegi_game/static/media/icon-instruction.62cc4e1aea18084f6a4debb3a1226a1d.svg",
     "index.html": "/hanapegi_game/index.html",
-    "main.b0cd90c9.css.map": "/hanapegi_game/static/css/main.b0cd90c9.css.map",
-    "main.c4a56a34.js.map": "/hanapegi_game/static/js/main.c4a56a34.js.map",
+    "main.ba6219bd.css.map": "/hanapegi_game/static/css/main.ba6219bd.css.map",
+    "main.03670402.js.map": "/hanapegi_game/static/js/main.03670402.js.map",
     "845.1fee4f5b.chunk.js.map": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0cd90c9.css",
-    "static/js/main.c4a56a34.js"
+    "static/css/main.ba6219bd.css",
+    "static/js/main.03670402.js"
   ]
 }
