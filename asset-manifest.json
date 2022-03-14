@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hanapegi_game/static/css/main.d74eb63b.css",
-    "main.js": "/hanapegi_game/static/js/main.813360d8.js",
+    "main.css": "/hanapegi_game/static/css/main.cc51373e.css",
+    "main.js": "/hanapegi_game/static/js/main.4c883528.js",
     "static/js/845.1fee4f5b.chunk.js": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js",
     "static/media/wait.mp3": "/hanapegi_game/static/media/wait.8f455294af44e7cea68d.mp3",
     "static/media/win.gif": "/hanapegi_game/static/media/win.c25430230d74bb1dde73.gif",
@@ -20,7 +20,6 @@
     "static/media/timer.mp3": "/hanapegi_game/static/media/timer.ff93b283ff8834ad8117.mp3",
     "static/media/loose.mp3": "/hanapegi_game/static/media/loose.cf3f41139709cce0427e.mp3",
     "static/media/win.mp3": "/hanapegi_game/static/media/win.7317b24c41ea7d09c05d.mp3",
-    "static/media/leedo_project.jpg": "/hanapegi_game/static/media/leedo_project.c4e884cba6d9927957b1.jpg",
     "static/media/icon-game-console.png": "/hanapegi_game/static/media/icon-game-console.d6e0c074b75f92b0d717.png",
     "static/media/hand-paper.png": "/hanapegi_game/static/media/hand-paper.870fc7360e3bb7bbab95.png",
     "static/media/hand-scissors.png": "/hanapegi_game/static/media/hand-scissors.2f283daf7fa86a0354a8.png",
@@ -29,12 +28,12 @@
     "static/media/icon-crown.svg": "/hanapegi_game/static/media/icon-crown.2874b553a24d33a525bfd75f24225b04.svg",
     "static/media/icon-instruction.svg": "/hanapegi_game/static/media/icon-instruction.62cc4e1aea18084f6a4debb3a1226a1d.svg",
     "index.html": "/hanapegi_game/index.html",
-    "main.d74eb63b.css.map": "/hanapegi_game/static/css/main.d74eb63b.css.map",
-    "main.813360d8.js.map": "/hanapegi_game/static/js/main.813360d8.js.map",
+    "main.cc51373e.css.map": "/hanapegi_game/static/css/main.cc51373e.css.map",
+    "main.4c883528.js.map": "/hanapegi_game/static/js/main.4c883528.js.map",
     "845.1fee4f5b.chunk.js.map": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d74eb63b.css",
-    "static/js/main.813360d8.js"
+    "static/css/main.cc51373e.css",
+    "static/js/main.4c883528.js"
   ]
 }
