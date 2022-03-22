@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hanapegi_game/static/css/main.7bb69dc4.css",
-    "main.js": "/hanapegi_game/static/js/main.55a77e18.js",
+    "main.js": "/hanapegi_game/static/js/main.8980ae2e.js",
     "static/js/845.1fee4f5b.chunk.js": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js",
     "static/media/wait.mp3": "/hanapegi_game/static/media/wait.8f455294af44e7cea68d.mp3",
     "static/media/win.gif": "/hanapegi_game/static/media/win.c25430230d74bb1dde73.gif",
@@ -31,11 +31,11 @@
     "static/media/icon-sound-off.svg": "/hanapegi_game/static/media/icon-sound-off.2f9f4ecb9dfd91e911a0a736ad4cd6fa.svg",
     "static/media/icon-sound.svg": "/hanapegi_game/static/media/icon-sound.815c3279bf45172fc6b1929554fe71eb.svg",
     "main.7bb69dc4.css.map": "/hanapegi_game/static/css/main.7bb69dc4.css.map",
-    "main.55a77e18.js.map": "/hanapegi_game/static/js/main.55a77e18.js.map",
+    "main.8980ae2e.js.map": "/hanapegi_game/static/js/main.8980ae2e.js.map",
     "845.1fee4f5b.chunk.js.map": "/hanapegi_game/static/js/845.1fee4f5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bb69dc4.css",
-    "static/js/main.55a77e18.js"
+    "static/js/main.8980ae2e.js"
   ]
 }
